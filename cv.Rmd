@@ -1,0 +1,109 @@
+---
+name: Abhishek
+surname: Kumar
+position: "Senior Research Fellow"
+address: "Department of Botany, Panjab University, Chandigarh"
+profilepic: square.jpg
+#phone: +91 90344 73233
+email: "abhikumar.pu@gmail.com"
+www: akumar.netlify.app
+#orcid: 0000-0003-2252-7623
+researchgate: Abhishek-Kumar-331
+twitter: abkumar_
+#github: abhikumar86
+#linkedin: abhikumar86
+date: "`r format(Sys.time(), '%B %Y')`"
+headcolor: "414141"
+output: 
+  vitae::awesomecv:
+    page_total: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(dplyr)
+library(vitae)
+```
+
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Doctor of Philosophy (Botany)", "2017-Present", "Panjab University", "Chandigarh, India",
+  "Master of Science (Botany)", "2015-2017", "Panjab University", "Chandigarh, India",
+  "Bachelor of Science (Botany, Chemistry, Zoology)", "2012-2015", "Arya PG College", "Panipat, India"
+) |> 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+
+# Selected Publications
+
+A complete list of publications can be found at my [*Google Scholar*](https://scholar.google.co.in/citations?user=ugmCylsAAAAJ&hl=en) profile.
+
+## Journal articles
+
+```{r}
+bibliography_entries("mypubs.bib") |> 
+    filter(type == "article-journal") |>
+    arrange(desc(issued))
+```
+
+## Book chapters
+
+```{r}
+bibliography_entries("mypubs.bib") |> 
+    filter(type == "chapter") |>
+    arrange(desc(issued))
+```
+
+
+# Awards and Distinctions
+
+```{r dist}
+# what, when, with, where, why
+tribble(
+  ~what, ~date, ~org, 
+  "Young Scientist Award", "2022", "Punjab Academy of Sciences, Patiala",
+  "Best Poster Award", "2020", "National Conference on Climate Change, CSIR-NBRI, Lucknow",
+  "Junior Research Fellowship", "2017", "University Grants Commission, New Delhi") |> 
+    detailed_entries(what = org, when = date, with = what, .protect = F)
+```
+
+# Research Interests
+
+- **Ecophysiology** Variation of functional traits with environmental variables (elevation, temperature, rainfall and atmospheric pressure)
+
+- **Population Ecology** Population dynamics of mountain trees (*Pinus*, *Quercus* and *Rhododendron*); species distribution modelling
+
+- **Community Ecology** Diversity and distribution of plants along elevation and their controlling factors
+
+- **Ecosystem Ecology** Nutrient cycling in tropical forests; role of phosphorus and mycorrhizal fungi in litter decomposition
+
+- **Restoration Ecology** Ecological restoration of coal mine spoils
+
+# Other skills and qualifications
+
+Check my [Website](akumar.netlify.app) for full list of [accomplishments](https://akumar.netlify.app/accomplishment/) and certificates
+
+* `R`
+* Biostatistics
+* Data analysis and visualisation
+* Systematic reviews and meta-analysis
+* Microsoft Office (Excel, PowerPoint, Word)
+
+
+# Professional Memberships
+
+- Student Member (#67527876), [*International Association for Vegetation Science*](iavs.org)
+- Life Member (#L-1599), Punjab Academy of Sciences, Patiala
+
+
+# References
+
+- **Dr. Anand Narain Singh**, Panjab University, Chandigarh, dranand1212@gmail.com
+- **Prof. Amrik Singh Ahluwalia**, Eternal University, Sirmaur, amrik.s511@gmail.com
+- **Dr. Balkar Singh**, Arya PG College, Panipat, balkararya@gmail.com
