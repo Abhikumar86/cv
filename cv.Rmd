@@ -85,16 +85,17 @@ tribble(
 
 - **Restoration Ecology** Ecological restoration of coal mine spoils
 
-# Other skills and qualifications
+# Other Skills and Qualifications
 
-Check my [Website](akumar.netlify.app) for full list of [accomplishments](https://akumar.netlify.app/accomplishment/) and certificates
+Please check my [website](akumar.netlify.app) for full list of [accomplishments](https://akumar.netlify.app/accomplishment/) and certificates
 
 * `R`
+* Microsoft Office (Excel, PowerPoint, Word)
 * Biostatistics
 * Data analysis and visualisation
 * Systematic reviews and meta-analysis
-* Microsoft Office (Excel, PowerPoint, Word)
-
+* Scientific and technical writing
+* Field sampling
 
 # Professional Memberships
 
@@ -107,3 +108,5 @@ Check my [Website](akumar.netlify.app) for full list of [accomplishments](https:
 - **Dr. Anand Narain Singh**, Panjab University, Chandigarh, dranand1212@gmail.com
 - **Prof. Amrik Singh Ahluwalia**, Eternal University, Sirmaur, amrik.s511@gmail.com
 - **Dr. Balkar Singh**, Arya PG College, Panipat, balkararya@gmail.com
+
+
