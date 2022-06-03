@@ -42,7 +42,7 @@ tribble(
 
 # Selected Publications
 
-A complete list of publications can be found at my [*Google Scholar*](https://scholar.google.co.in/citations?user=ugmCylsAAAAJ&hl=en) profile.
+Please check my [*website*](akumar.netlify.app) for a complete list of [*publications*](https://akumar.netlify.app/publication/).
 
 ## Journal articles
 
@@ -87,7 +87,7 @@ tribble(
 
 # Other Skills and Qualifications
 
-Please check my [website](akumar.netlify.app) for full list of [accomplishments](https://akumar.netlify.app/accomplishment/) and certificates
+Please check my [*website*](akumar.netlify.app) for a comprehensive list of [*accomplishments*](https://akumar.netlify.app/accomplishment/) and certificates
 
 * `R`
 * Microsoft Office (Excel, PowerPoint, Word)
@@ -95,7 +95,6 @@ Please check my [website](akumar.netlify.app) for full list of [accomplishments]
 * Data analysis and visualisation
 * Systematic reviews and meta-analysis
 * Scientific and technical writing
-* Field sampling
 
 # Professional Memberships
 
