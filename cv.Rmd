@@ -42,7 +42,7 @@ tribble(
 
 # Selected Publications
 
-Please check my [*website*](akumar.netlify.app) for a complete list of [*publications*](https://akumar.netlify.app/publication/).
+Please check my [*website*](https://akumar.netlify.app) for a complete list of [*publications*](https://akumar.netlify.app/publication/).
 
 ## Journal articles
 
@@ -85,9 +85,9 @@ tribble(
 
 - **Restoration Ecology** Ecological restoration of coal mine spoils
 
-# Other Skills and Qualifications
+# Skills and Qualifications
 
-Please check my [*website*](akumar.netlify.app) for a comprehensive list of [*accomplishments*](https://akumar.netlify.app/accomplishment/) and certificates
+Please check my [*website*](https://akumar.netlify.app) for a comprehensive list of [*accomplishments*](https://akumar.netlify.app/accomplishment/) and certificates
 
 * `R`
 * Microsoft Office (Excel, PowerPoint, Word)
@@ -98,7 +98,7 @@ Please check my [*website*](akumar.netlify.app) for a comprehensive list of [*ac
 
 # Professional Memberships
 
-- Student Member (#67527876), [*International Association for Vegetation Science*](iavs.org)
+- Student Member (#67527876), [*International Association for Vegetation Science*](https://iavs.org)
 - Life Member (#L-1599), Punjab Academy of Sciences, Patiala
 
 
