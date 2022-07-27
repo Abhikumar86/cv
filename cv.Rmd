@@ -89,17 +89,17 @@ tribble(
 
 Please check my [*website*](https://akumar.netlify.app) for a comprehensive list of [*accomplishments*](https://akumar.netlify.app/accomplishment/) and certificates
 
-* `R`
-* Microsoft Office (Excel, PowerPoint, Word)
-* Biostatistics
-* Data analysis and visualisation
-* Systematic reviews and meta-analysis
-* Scientific and technical writing
+- `R`
+- Microsoft Office (Excel, PowerPoint, Word)
+- Biostatistics
+- Data analysis and visualisation
+- Systematic reviews and meta-analysis
+- Scientific and technical writing
 
 # Professional Memberships
 
 - Student Member (#67527876), [*International Association for Vegetation Science*](https://iavs.org)
-- Life Member (#L-1599), Punjab Academy of Sciences, Patiala
+- Life Member (#L-1599), *Punjab Academy of Sciences, Patiala*
 
 
 # References
