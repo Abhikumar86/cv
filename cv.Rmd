@@ -75,11 +75,13 @@ tribble(
 
 # Research Interests
 
-- **Ecophysiology** Variation of functional traits with environmental variables (elevation, temperature, rainfall and atmospheric pressure)
+- **Macroecology** Elevational patterns of plant species richness; Climate associated plant redistributions
+
+- **Community Ecology** Diversity and distribution of plant communities along elevation and their controlling factors
 
 - **Population Ecology** Population dynamics of mountain trees (*Pinus*, *Quercus* and *Rhododendron*); species distribution modelling
 
-- **Community Ecology** Diversity and distribution of plants along elevation and their controlling factors
+- **Ecophysiology** Variation of functional traits with environmental variables (elevation, temperature, rainfall and atmospheric pressure)
 
 - **Ecosystem Ecology** Nutrient cycling in tropical forests; role of phosphorus and mycorrhizal fungi in litter decomposition
 
